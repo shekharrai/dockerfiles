@@ -1,0 +1,60 @@
+/artifacts/
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### Ant ###
+*.el
+*.pif
+*.snap
+.ant.properties
+.DS_Store
+bin
+apache-ant-1.*
+bootstrap
+build
+dist
+distribution
+java-repository
+patch.tar.gz
+patch.txt
+target
+velocity.log*
+lib/optional/*.jar
+src/tests/antunit/core/output
+/src/GPATH
+/src/GRTAGS
+/src/GSYMS
+/src/GTAGS
+/log.xml
+lib/optional/license.txt
+/release/distrib/
+out/
